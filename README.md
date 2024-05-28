@@ -1,8 +1,8 @@
 # RPG Inventory 🎒👾
 
-[Readme in PT-BR ](https://github.com/alissonalbuquerque/rpg-inventory/blob/main/README_PT_BR.md)
+[Readme in PT-BR 📃](https://github.com/alissonalbuquerque/rpg-inventory/blob/main/README_PT_BR.md)
 
-A inventory to rpg itens in command line. Project's discipline "LPC" from ETE - Ariano Suassuna
+A inventory to rpg itens in command line interface. Project's discipline "LPC" from ETE - Ariano Suassuna
 
 <hr>
 
