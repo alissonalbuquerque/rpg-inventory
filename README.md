@@ -4,6 +4,8 @@
 
 A inventory to rpg itens in command line. Project's discipline "LPC" from ETE - Ariano Suassuna
 
+<hr>
+
 ![inventory image ilustative](https://github.com/alissonalbuquerque/rpg-inventory/blob/main/readme_assets/cover.png)
 
 <hr>
